@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid
+{
+    background: linear-gradient(127deg,rgba(243,69,5,0.98) 0%, rgba(226,0,255,0.05) 40%, #19cb19 80%);
+}
+.freedom{
+    margin-left: 30%;
+    margin-right: 30%;
+}
